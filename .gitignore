@@ -1,0 +1,41 @@
+# -------------------------
+# Virtual Environment
+# -------------------------
+senti/
+venv/
+env/
+
+# -------------------------
+# Python cache & compiled files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Jupyter Notebook checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Large data / embeddings
+# -------------------------
+data/glove.6B.100d.txt
+
+# -------------------------
+# OS-specific files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Editor / IDE files
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
